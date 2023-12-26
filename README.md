@@ -1,6 +1,6 @@
 # School Management System
 #### Video Demo:  <https://youtu.be/PBCPNhF0XQk>
-#### Description: Simplify and streamline your school's administrative tasks with our easy-to-use School Management System code. No more wasting time on manual data entry or struggling to find important staff information. Our system allows you to effortlessly add, update, and retrieve staff details at the click of a button. With enhanced security measures, you can trust that your data will be protected. Say goodbye to paperwork and hello to efficiency. Experience a hassle-free way of managing staff information with our School Management System code.
+**Description:** Simplify and streamline your school's administrative tasks with our easy-to-use School Management System code. No more wasting time on manual data entry or struggling to find important staff information. Our system allows you to effortlessly add, update, and retrieve staff details at the click of a button. With enhanced security measures, you can trust that your data will be protected. Say goodbye to paperwork and hello to efficiency. Experience a hassle-free way of managing staff information with our School Management System code.
 
 **Overview:**
 The School Management System project is a software application designed to simplify and streamline administrative tasks in schools. It provides an efficient way of managing staff information, reducing paperwork, and improving overall productivity. This system is aimed at helping school administrators save time and effort in handling staff details.
