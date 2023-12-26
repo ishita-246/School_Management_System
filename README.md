@@ -1,1 +1,3 @@
-# School_Management_System
+# School Management System
+#### Video Demo:  <https://youtu.be/PBCPNhF0XQk>
+#### Description: Simplify and streamline your school's administrative tasks with our easy-to-use School Management System code. No more wasting time on manual data entry or struggling to find important staff information. Our system allows you to effortlessly add, update, and retrieve staff details at the click of a button. With enhanced security measures, you can trust that your data will be protected. Say goodbye to paperwork and hello to efficiency. Experience a hassle-free way of managing staff information with our School Management System code.
